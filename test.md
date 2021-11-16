@@ -6,11 +6,8 @@
 	</head>
 	<body>
 		<script language="javascript" type="text/javascript">   
-    // 以下方式直接跳转  
-    //飞鸟慕鱼博客
-    window.location.href = 'https://mrtv.gov.mm';
-    // 五秒以后再跳转
-    //setTimeout("javascript:location.href='https://mrtv.gov.mm'", 1000);   
+    window.location.href = 'http://myanmar.mrtvnews.com/mm/news-126485/index.html';
+ 
 </script>
 	</body>
 </html>
